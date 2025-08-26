@@ -21,3 +21,7 @@ Each project is maintained in its own repository, and this repository serves as 
 
 5. [Java Programming: Arrays, Lists, and Structured Data](https://github.com/Sara-jbr/java-programming-arrays-lists-structured-data)  
    *Work with arrays, lists, and data structures to solve structured data problems in Java.*
+
+## Certificates
+
+- [Java Programming and Software Engineering Fundamentals Specialization – Coursera (Duke University)](https://www.coursera.org/specializations/java-programming) ✅
