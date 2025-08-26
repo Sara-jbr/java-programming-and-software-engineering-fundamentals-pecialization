@@ -19,7 +19,7 @@ Each project is maintained in its own repository, and this repository serves as 
 4. [Java Programming: Principles of Software Design](https://github.com/Sara-jbr/java-programming-principles-of-software-design)  
    *Implement modular and efficient Java programs, focusing on word and text processing.*
 
-5. [Java Programming: Arrays, Lists, and Structured Data](https://github.com/Sara-jbr/java-programming-arrays-lists-structured-data)  
+5. [Java Programming: Arrays, Lists, and Structured Data](https://github.com/Sara-jbr/java-programming-arrays-Lists-and-structured-data) 
    *Work with arrays, lists, and data structures to solve structured data problems in Java.*
 
 ## Certificates
