@@ -24,4 +24,4 @@ Each project is maintained in its own repository, and this repository serves as 
 
 ## Certificates
 
-- [Java Programming and Software Engineering Fundamentals Specialization – Coursera (Duke University)](https://www.coursera.org/specializations/java-programming) ✅
+- [Java Programming and Software Engineering Fundamentals Specialization – Coursera (Duke University)](https://www.coursera.org/account/accomplishments/specialization/certificate/1MJ0SXVD20JQ)) ✅
